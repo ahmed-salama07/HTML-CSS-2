@@ -141,6 +141,7 @@ ul {
 
 .header .container .logo img {
     height: 40px;
+    cursor: pointer;
 }
 
 .header .container .links {
